@@ -1,0 +1,109 @@
+#header {
+    color: black;
+    background-color: #ef7cef;
+}
+
+.section {
+
+    padding-top: 40px;
+    padding-bottom: 30px;
+
+}
+
+
+
+h1:hover {
+    background-color: white;
+}
+
+#menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#menu li {
+
+    display: inline-block;
+}
+
+li a {
+    color: black;
+
+    padding: 15px 10px;
+    display: block;
+}
+
+#menu li a:hover {
+    background-color: white;
+    text-decoration: none;
+}
+
+#banner {
+    background-image: url('orcal_.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-title h2 {
+
+
+    padding: 80px;
+    margin: 0;
+}
+
+.banner-title p.lead {
+    color: #fff;
+    background-color: #ef7cef;
+    padding: 0;
+}
+
+
+
+.orange {
+    color: orangered;
+}
+
+.service-box {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 2.5rem;
+    background-color: red;
+}
+
+.service-box i {
+
+    color: palevioletred;
+    font-size: 4.5rem;
+    margin-bottom: 14px;
+
+}
+
+#testimonial {
+    background-image: url('e980f81e-5f02-4efc-9fce-f208210acbf9.jpeg');
+    height: 28rem;
+
+    background-repeat: no-repeat;
+    background-position: 0px;
+    background-size: cover;
+    padding: 50px, 0px;
+    position: relative;
+    display: flex;
+    font-size: 1.5rem;
+    color: #fff;
+
+}
+
+#last {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+    color: white;
+
+}
+
+footer {
+
+    background-color: darkred;
+    margin-bottom: 11rem;
+}

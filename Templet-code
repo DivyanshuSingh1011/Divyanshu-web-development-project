@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link href="style.css" rel="stylesheet">
+    <!doctype html>
+    <html lang="en">
+
+</head>
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Title</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <!-- Bootstrap CSS v5.2.1 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+</head>
+
+<body>
+    <header>
+        <!-- place navbar here -->
+    </header>
+    <main></main>
+    <footer>
+        <!-- place footer here -->
+    </footer>
+    <!-- Bootstrap JavaScript Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
+
+<body>
+    <div id="header">
+        <div class="container">
+            <div class="row ">
+                <div class="col-md-8">
+                    <h1 id="logo">Industrial Sites</h1>
+                </div>
+                <div class="col-md-4">
+                    <ul id="menu" class="float-md-end">
+                        <li>
+                            <a href="" style=" text-decoration: none;">Home</a>
+                        </li>
+                        <li>
+                            <a href="" style=" text-decoration: none;">About</a>
+                        </li>
+                        <li>
+                            <a href="" style=" text-decoration: none;">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="banner" class="py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 offset-4">
+                    <div class="banner-title">
+                        <h2></h2>
+                        <p class="lead"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container section">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="section-head offset-5 orange" style="text-decoration: underline;">Industrial Sites</h2>
+            </div>
+            <div class="col-md-4">
+                <div class="service-box">
+                    <i class="fa-solid fa-anchor"></i>
+                    <h3>anchor</h3>
+                    <p>a heavy object attached to a cable or chain and used to moor a ship to the sea bottom, typically
+                        having a metal shank
+                        with a pair of curved, barbed flukes at one end:</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="service-box">
+                    <i class="fa-solid fa-chart-column"></i>
+                    <h3>Bar</h3>
+                    <p>A bar graph is a graphical representation of information. It uses bars that extend to different
+                        heights to depict value</p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="service-box">
+                    <i class="fa-solid fa-fire"></i>
+                    <h3>Fire</h3>
+                    <p>JapaneseAmaterasu: The Sun Queen of Japanese Mythology</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="testimonial" class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="col-md-6">
+                        <h2 class="section-head offset-9 orange">company's</h2>
+                        <p>Aman is the co-founder and chief marketing officer of
+                            an earwear audio company called boAt.
+                            This company has a string of
+                            products that include but aren't limited to headphones and travel chargers. 2016 sawed</p>
+                        <img src="boat_.jpg">
+                        <div class="author">
+                            Aman Gupta
+                        </div>
+                        <div class="company">boat</div>
+                        <div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div id="last">
+                <div class="container">
+                    <div class="row">
+                        <div class="hass">
+                            <h3 class="offset-4">Make Money with Us</h3>
+                            <div class="col-md-4">
+
+                            </div>
+                            Make Money with Us
+                            Sell on Amazon
+                            Sell under Amazon Accelerator
+                            Protect and Build Your Brand
+                            Amazon Global Selling
+                            Supply to Amazon
+                            Become an Affiliate
+                            Fulfilment by Amazon
+                            Advertise Your Products
+                            Amazon Pay on Merchant
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <br>
+</body>
+
+</html>
